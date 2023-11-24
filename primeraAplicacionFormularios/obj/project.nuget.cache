@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5nCTxG2PEXl0MJ/lx/2y9NNLH/sOcUC/ybZZGRhMrQp1H4SZ/hWWwdoh/bF2ux1AhKw4ZrNci7y/pT9+P8qwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\famil\\Downloads\\primeraAplicacionFormularios-20231124T164337Z-001\\primeraAplicacionFormularios\\primeraAplicacionFormularios\\primeraAplicacionFormularios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.data.sqlite\\8.0.0\\microsoft.data.sqlite.8.0.0.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
